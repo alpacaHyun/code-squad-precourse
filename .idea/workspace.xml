@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="오븐타이머">
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="구구단">
+      <change afterPath="$PROJECT_DIR$/src/firstweek/PrintStar2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="Alarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstweek.Alarm" />
-      <module name="Codesquad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstweek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrintStar2">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstweek.MultiplicationTable" />
       <module name="Codesquad" />
@@ -95,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintStar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.PrintStar2" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstweek.ThreeDice" />
       <module name="Codesquad" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintStar2" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.ThreeDice" />
         <item itemvalue="Application.PrintStar1" />
         <item itemvalue="Application.OvenTimer" />
-        <item itemvalue="Application.Alarm" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,7 @@
       <updated>1667199488096</updated>
       <workItem from="1667199489743" duration="4737000" />
       <workItem from="1667204296051" duration="2282000" />
-      <workItem from="1667206588639" duration="6771000" />
+      <workItem from="1667206588639" duration="7928000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -214,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667224005885</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="주사위 3개의 합 시작 전">
+      <created>1667224543664</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667224543664</updated>
+    </task>
+    <task id="LOCAL-00014" summary="구구단">
+      <created>1667224773399</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667224773399</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +258,9 @@
     <MESSAGE value="별찍기 1" />
     <MESSAGE value="숫자의 합" />
     <MESSAGE value="오븐타이머" />
-    <option name="LAST_COMMIT_MESSAGE" value="오븐타이머" />
+    <MESSAGE value="주사위 3개의 합 시작 전" />
+    <MESSAGE value="구구단" />
+    <option name="LAST_COMMIT_MESSAGE" value="구구단" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
