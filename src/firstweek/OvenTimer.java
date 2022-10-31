@@ -10,22 +10,12 @@ public class OvenTimer {
         int B = sc.nextInt();
         int C = sc.nextInt();
 
-        if((B+C) < 60){
-            System.out.println(A + " " +(B+C));
-        }
-        if((B+C) == 60){
-            if(A == 23){
-                System.out.println(0 +" "+ 0);
-            }else {
-                System.out.println(A + 1 + " " + 0);
-            }
-        }
-        if ((B+C) > 60){
-            if(A == 23){
-                System.out.println(0 + " "+ (B+C-60));
-            }else {
-                System.out.println(A + 1 + " " + (B + C - 60));
-            }
-        }
+        int min = (A*60) + B + C;
+
+        int hour = (min / 60) % 24;
+        int minute = min % 60;
+
+        System.out.println(hour +" " + minute);
+
     }
 }
