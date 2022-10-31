@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="사분면 확인 프로그램">
-      <change afterPath="$PROJECT_DIR$/src/firstweek/Alarm.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="45분 일찍 깨워주는 알람">
+      <change afterPath="$PROJECT_DIR$/src/firstweek/OvenTimer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstweek/Testing.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Alarm">
+  <component name="RunManager" selected="Application.OvenTimer">
     <configuration name="Alarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstweek.Alarm" />
       <module name="Codesquad" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quadrant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstweek.Quadrant" />
+    <configuration name="OvenTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.OvenTimer" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstweek.TestScore" />
+    <configuration name="Quadrant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.Quadrant" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OvenTimer" />
         <item itemvalue="Application.Alarm" />
         <item itemvalue="Application.Quadrant" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.TestScore" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667199488096</updated>
       <workItem from="1667199489743" duration="4737000" />
-      <workItem from="1667204296051" duration="1963000" />
+      <workItem from="1667204296051" duration="2282000" />
+      <workItem from="1667206588639" duration="4161000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667204817797</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="45분 일찍 깨워주는 알람">
+      <created>1667206528087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667206528087</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +211,8 @@
     <MESSAGE value="백준 제출용 수정" />
     <MESSAGE value="윤년 구분 프로그램" />
     <MESSAGE value="사분면 확인 프로그램" />
-    <option name="LAST_COMMIT_MESSAGE" value="사분면 확인 프로그램" />
+    <MESSAGE value="45분 일찍 깨워주는 알람" />
+    <option name="LAST_COMMIT_MESSAGE" value="45분 일찍 깨워주는 알람" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,6 +221,11 @@
           <url>file://$PROJECT_DIR$/src/firstweek/LeapYear.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/firstweek/OvenTimer.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
