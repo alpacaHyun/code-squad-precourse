@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="시험 성적 확인">
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="백준 제출용 수정">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstweek/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstweek/Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstweek/TestScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstweek/TestScore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -41,9 +46,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestScore">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="CompareNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstweek.CompareNum" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.LeapYear" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +86,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.Testing" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.Testing" />
         <item itemvalue="Application.TestScore" />
         <item itemvalue="Application.CompareNum" />
       </list>
@@ -83,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667199488096</updated>
-      <workItem from="1667199489743" duration="2565000" />
+      <workItem from="1667199489743" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -106,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667201714399</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="백준 제출용 수정">
+      <created>1667202132296</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667202132296</updated>
+    </task>
+    <task id="LOCAL-00005" summary="백준 제출용 수정">
+      <created>1667202144768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667202144768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +174,8 @@
     <MESSAGE value="간단한 출력하기&#10;Hello, CodeSquad 출력하기" />
     <MESSAGE value="두 수 비교하시&#10;두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성" />
     <MESSAGE value="시험 성적 확인" />
-    <option name="LAST_COMMIT_MESSAGE" value="시험 성적 확인" />
+    <MESSAGE value="백준 제출용 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 제출용 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

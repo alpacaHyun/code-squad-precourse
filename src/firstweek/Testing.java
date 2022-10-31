@@ -2,10 +2,12 @@ package firstweek;
 
 import java.util.Scanner;
 
-public class TestScore {
-    public static String Grade(int testScore){
+public class Testing {
+    public static void main(String []args){
         String result = null;
         Scanner sc = new Scanner(System.in);
+
+        int testScore = sc.nextInt();
         if(90<=testScore && testScore<=100){
             result = "A";
             System.out.println(result);
@@ -26,13 +28,5 @@ public class TestScore {
             result = "F";
             System.out.println(result);
         }
-        return result;
-    }
-    public static void main(String [] args){
-        int testScore = 100;
-
-        Grade(testScore);
-
-
     }
 }
