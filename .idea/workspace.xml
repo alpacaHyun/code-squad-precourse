@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="오븐 타이머 (타이머 최대시간 60분)&#10;&#10;타이머 최대시간 1000분으로 변경할 것">
-      <change afterPath="$PROJECT_DIR$/src/firstweek/PrintStar1.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="별찍기 1">
+      <change afterPath="$PROJECT_DIR$/src/firstweek/PrintFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,7 @@
       <updated>1667199488096</updated>
       <workItem from="1667199489743" duration="4737000" />
       <workItem from="1667204296051" duration="2282000" />
-      <workItem from="1667206588639" duration="4542000" />
+      <workItem from="1667206588639" duration="5225000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667221930870</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="별찍기 1">
+      <created>1667222568883</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667222568883</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +227,8 @@
     <MESSAGE value="사분면 확인 프로그램" />
     <MESSAGE value="45분 일찍 깨워주는 알람" />
     <MESSAGE value="오븐 타이머 (타이머 최대시간 60분)&#10;&#10;타이머 최대시간 1000분으로 변경할 것" />
-    <option name="LAST_COMMIT_MESSAGE" value="오븐 타이머 (타이머 최대시간 60분)&#10;&#10;타이머 최대시간 1000분으로 변경할 것" />
+    <MESSAGE value="별찍기 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="별찍기 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
