@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintStar1">
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="Alarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstweek.Alarm" />
       <module name="Codesquad" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstweek.LeapYear" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.MultiplicationTable" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quadrant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstweek.Quadrant" />
+    <configuration name="ThreeDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstweek.ThreeDice" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.ThreeDice" />
         <item itemvalue="Application.PrintStar1" />
         <item itemvalue="Application.OvenTimer" />
         <item itemvalue="Application.Alarm" />
-        <item itemvalue="Application.Quadrant" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
