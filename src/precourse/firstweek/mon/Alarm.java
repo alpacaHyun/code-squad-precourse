@@ -9,6 +9,10 @@ public class Alarm {
         int H = sc.nextInt();
         int M = sc.nextInt();
 
+        if(H <0 || H > 23 || M < 0 || M > 59){
+            System.out.println("오류입니다.");
+        }
+
         if((M-45) < 0){
             if(H == 0){
                 System.out.println((23) + " " + (M+15));
