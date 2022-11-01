@@ -1,4 +1,4 @@
-package firstweek;
+package precourse.firstweek.mon;
 
 public class MultiplicationTable {
     public static void main(String [] args){

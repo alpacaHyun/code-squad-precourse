@@ -1,4 +1,4 @@
-package firstweek;
+package precourse.firstweek.mon;
 
 public class SimplePrint {
     public static void main(String [] args){

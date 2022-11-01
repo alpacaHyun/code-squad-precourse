@@ -1,4 +1,4 @@
-package firstweek;
+package precourse.firstweek.mon;
 
 import java.util.Scanner;
 
