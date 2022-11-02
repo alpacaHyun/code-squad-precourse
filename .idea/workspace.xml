@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="switch 적용할 것">
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/ASCII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/mon/SwitchPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/SwitchPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DivideNum">
-    <configuration name="DivideNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.DivideNum" />
+  <component name="RunManager" selected="Application.ASCII">
+    <configuration name="ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.ASCII" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game369" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.Game369" />
+    <configuration name="DivideNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.DivideNum" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.mon.*" />
+          <option name="PATTERN" value="precourse.firstweek.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ASCII" />
         <item itemvalue="Application.DivideNum" />
         <item itemvalue="Application.SwitchPractice" />
         <item itemvalue="Application.RecCrash" />
         <item itemvalue="Application.PracticeIf" />
-        <item itemvalue="Application.Game369" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1667309229169" duration="3828000" />
       <workItem from="1667342431711" duration="6111000" />
       <workItem from="1667365721354" duration="652000" />
-      <workItem from="1667369947253" duration="3089000" />
+      <workItem from="1667369947253" duration="4192000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -325,7 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667357222642</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="double 형 두 수 나누기">
+      <created>1667373071164</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667373071164</updated>
+    </task>
+    <task id="LOCAL-00028" summary="switch 적용할 것">
+      <created>1667373086955</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667373086955</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,8 +357,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="간단한 출력하기&#10;Hello, CodeSquad 출력하기" />
-    <MESSAGE value="두 수 비교하시&#10;두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성" />
     <MESSAGE value="시험 성적 확인" />
     <MESSAGE value="백준 제출용 수정" />
     <MESSAGE value="윤년 구분 프로그램" />
@@ -368,7 +380,9 @@
     <MESSAGE value="중간 정수 출력" />
     <MESSAGE value="If문 연습하기" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="double 형 두 수 나누기" />
+    <MESSAGE value="switch 적용할 것" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch 적용할 것" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

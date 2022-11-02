@@ -15,8 +15,6 @@ public class DivideNum {
         for (int i = 0; i < temp.length; i++){
             twoNum[i] = Double.parseDouble(temp[i]);
         }
-
         System.out.println(twoNum[0]/twoNum[1]);
-
     }
 }
