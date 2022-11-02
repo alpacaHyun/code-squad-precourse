@@ -1,17 +1,16 @@
 package precourse.firstweek.mon;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Alarm {
-    public static void main(String [] args){
-        Scanner sc = new Scanner(System.in);
+    public static void main(String [] args)throws IOException {
+        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 
-        int H = sc.nextInt();
-        int M = sc.nextInt();
+        int H = Integer.parseInt(bf.readLine());
+        int M = Integer.parseInt(bf.readLine());
 
-        if(H <0 || H > 23 || M < 0 || M > 59){
-            System.out.println("오류입니다.");
-        }
 
         if((M-45) < 0){
             if(H == 0){
