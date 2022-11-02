@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="간단 수정">
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/Game369.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/PracticeIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/PrintMidNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/RecCrash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/SwitchPractice.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/mon/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/Alarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/mon/SwitchPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/mon/SwitchPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchPractice">
+  <component name="RunManager" selected="Application.DivideNum">
+    <configuration name="DivideNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.DivideNum" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="precourse.firstweek.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Game369" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.Game369" />
       <module name="Codesquad" />
@@ -66,19 +75,6 @@
     </configuration>
     <configuration name="PracticeIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.PracticeIf" />
-      <module name="Codesquad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="precourse.firstweek.mon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintMidNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.PrintMidNum" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivideNum" />
         <item itemvalue="Application.SwitchPractice" />
         <item itemvalue="Application.RecCrash" />
         <item itemvalue="Application.PracticeIf" />
         <item itemvalue="Application.Game369" />
-        <item itemvalue="Application.PrintMidNum" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,9 @@
       <workItem from="1667289890791" duration="1385000" />
       <workItem from="1667303826787" duration="3766000" />
       <workItem from="1667309229169" duration="3828000" />
-      <workItem from="1667342431711" duration="5753000" />
+      <workItem from="1667342431711" duration="6111000" />
+      <workItem from="1667365721354" duration="652000" />
+      <workItem from="1667369947253" duration="3089000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -278,7 +276,56 @@
       <option name="project" value="LOCAL" />
       <updated>1667290076753</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="369 게임&#10;박수짝, 박수짝짝">
+      <created>1667357106822</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357106822</updated>
+    </task>
+    <task id="LOCAL-00021" summary="사각형 충돌">
+      <created>1667357134771</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357134771</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Switch 문 연습&#10;&#10;수정할 것">
+      <created>1667357161342</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357161342</updated>
+    </task>
+    <task id="LOCAL-00023" summary="수정">
+      <created>1667357183055</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357183055</updated>
+    </task>
+    <task id="LOCAL-00024" summary="중간 정수 출력">
+      <created>1667357202344</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357202344</updated>
+    </task>
+    <task id="LOCAL-00025" summary="If문 연습하기">
+      <created>1667357210063</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357210063</updated>
+    </task>
+    <task id="LOCAL-00026" summary=".">
+      <created>1667357222642</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667357222642</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +361,14 @@
     <MESSAGE value="패키지 수정" />
     <MESSAGE value="깔끔하게 수정" />
     <MESSAGE value="간단 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="간단 수정" />
+    <MESSAGE value="369 게임&#10;박수짝, 박수짝짝" />
+    <MESSAGE value="사각형 충돌" />
+    <MESSAGE value="Switch 문 연습&#10;&#10;수정할 것" />
+    <MESSAGE value="수정" />
+    <MESSAGE value="중간 정수 출력" />
+    <MESSAGE value="If문 연습하기" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

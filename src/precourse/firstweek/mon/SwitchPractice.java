@@ -34,19 +34,20 @@ public class SwitchPractice {
 
 
 //        switch(operator){
-//            case 1:
+//            case +:
 //                System.out.printf("%d + %d = %d 입니다.",num[0],num[1], num[0] + num[1]);
 //                break;
-//            case 2:
+//            case -:
 //                System.out.printf("%d - %d = %d 입니다.",num[0], num[1], num[0] + num[1]);
 //                break;
-//            case 3:
+//            case *:
 //                System.out.printf("%d * %d = %d 입니다.",num[0], num[1], num[0] + num[1]);
 //                break;
-//            case 4:
+//            case /:
 //                System.out.printf("%d / %d = %d 입니다.",num[0], num[1], num[0] + num[1]);
 //                break;
 //        }
+
         }
 
 //    final static void PROMPT(){
