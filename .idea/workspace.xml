@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="switch 적용할 것">
-      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/ASCII.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력">
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/OXQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/Scale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/ScaleSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/ClassPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/MyDateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/algorithm/DivideNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ASCII">
+  <component name="RunManager" selected="Application.LeftMoney">
     <configuration name="ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.ASCII" />
       <module name="Codesquad" />
@@ -60,8 +63,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.DivideNum" />
+    <configuration name="ClassPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.ClassPerson" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.LeftMoney" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.MakeClass" />
+      <module name="Codesquad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScaleSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.algorithm.ScaleSimple" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
@@ -73,52 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.PracticeIf" />
-      <module name="Codesquad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="precourse.firstweek.mon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecCrash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.RecCrash" />
-      <module name="Codesquad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="precourse.firstweek.mon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.mon.SwitchPractice" />
-      <module name="Codesquad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="precourse.firstweek.mon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeftMoney" />
+        <item itemvalue="Application.ClassPerson" />
+        <item itemvalue="Application.MakeClass" />
+        <item itemvalue="Application.ScaleSimple" />
         <item itemvalue="Application.ASCII" />
-        <item itemvalue="Application.DivideNum" />
-        <item itemvalue="Application.SwitchPractice" />
-        <item itemvalue="Application.RecCrash" />
-        <item itemvalue="Application.PracticeIf" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,14 @@
       <workItem from="1667309229169" duration="3828000" />
       <workItem from="1667342431711" duration="6111000" />
       <workItem from="1667365721354" duration="652000" />
-      <workItem from="1667369947253" duration="4192000" />
+      <workItem from="1667369947253" duration="6467000" />
+      <workItem from="1667376441582" duration="5430000" />
+      <workItem from="1667392993934" duration="1374000" />
+      <workItem from="1667394895475" duration="11000" />
+      <workItem from="1667396281644" duration="6000" />
+      <workItem from="1667472806954" duration="702000" />
+      <workItem from="1667482174701" duration="785000" />
+      <workItem from="1667482975174" duration="3774000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -339,7 +349,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667373086955</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ASCII">
+      <created>1667374166460</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667374166460</updated>
+    </task>
+    <task id="LOCAL-00030" summary="type : feat&#10;&#10;body : 두 수 10, 2를 속성 값으로 가지는 클래스를 만들고 이를 사칙연산 하는 클래스와 이를 사용하는 클래스를 따로 만들어 사칙연산의 출력결과를 출력하세요.">
+      <created>1667483528756</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667483528756</updated>
+    </task>
+    <task id="LOCAL-00031" summary="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력">
+      <created>1667485605353</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1667485605353</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,9 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="시험 성적 확인" />
-    <MESSAGE value="백준 제출용 수정" />
-    <MESSAGE value="윤년 구분 프로그램" />
     <MESSAGE value="사분면 확인 프로그램" />
     <MESSAGE value="45분 일찍 깨워주는 알람" />
     <MESSAGE value="오븐 타이머 (타이머 최대시간 60분)&#10;&#10;타이머 최대시간 1000분으로 변경할 것" />
@@ -382,7 +410,10 @@
     <MESSAGE value="." />
     <MESSAGE value="double 형 두 수 나누기" />
     <MESSAGE value="switch 적용할 것" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch 적용할 것" />
+    <MESSAGE value="ASCII" />
+    <MESSAGE value="type : feat&#10;&#10;body : 두 수 10, 2를 속성 값으로 가지는 클래스를 만들고 이를 사칙연산 하는 클래스와 이를 사용하는 클래스를 따로 만들어 사칙연산의 출력결과를 출력하세요." />
+    <MESSAGE value="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -406,6 +437,11 @@
           <url>file://$PROJECT_DIR$/src/precourse/firstweek/mon/MultiplicationTable.java</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/precourse/firstweek/thursday/MakeClass.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
