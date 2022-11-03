@@ -1,12 +1,14 @@
 package precourse.firstweek.thursday;
 
 public class LeftMoney {
+
     public static int leftMoney(int a, int b){
         int answer = a - b;
         return answer;
     }
 
     public static void main(String[] args) {
+
         InformationOfPerson JamesInfo = new InformationOfPerson();
             JamesInfo.name = "James";
             JamesInfo.moneyInHand = 5000;

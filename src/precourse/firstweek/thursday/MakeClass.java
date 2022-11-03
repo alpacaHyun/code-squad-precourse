@@ -4,6 +4,7 @@ public class MakeClass {
     static int a = 10;
     static int b = 2;
     public static void main (String [] args){
+
         CalculatePlus.calPlus(a, b);
         CalculateMinus.calMinus(a, b);
         CalculateMultiplication.calMultiplication(a, b);
@@ -12,6 +13,7 @@ public class MakeClass {
 }
 
 class CalculatePlus{
+
     public static void calPlus(int a, int b){
         int answer = a + b;
 
@@ -20,6 +22,7 @@ class CalculatePlus{
 }
 
 class CalculateMinus{
+
     public static void calMinus(int a, int b){
         int answer = a - b;
 
@@ -28,6 +31,7 @@ class CalculateMinus{
 }
 
 class CalculateMultiplication{
+
     public static void calMultiplication(int a, int b){
         int answer = a * b;
 
@@ -36,6 +40,7 @@ class CalculateMultiplication{
 }
 
 class CalculateDivide{
+
     public static void calDivide(int a, int b){
         int answer = a / b;
 
