@@ -1,4 +1,4 @@
-package precourse.firstweek.thursday.shineMission;
+package precourse.firstweek.thursday.shineMission.Grade;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,12 +19,10 @@ public class Grade {
         int scienceScore = Integer.parseInt(br.readLine());
         int englishScore = Integer.parseInt(br.readLine());
 
-        bw.write("평균은 : " + averageScore(mathScore, scienceScore, englishScore) + "\n");
+        bw.write("평균은 : " + Average.averageScore(mathScore, scienceScore, englishScore) + "\n");
         bw.flush();
         bw.close();
     }
-
-    private static int averageScore(int a, int b, int c) {
-        return (a + b + c) / 3;
-    }
 }
+
+
