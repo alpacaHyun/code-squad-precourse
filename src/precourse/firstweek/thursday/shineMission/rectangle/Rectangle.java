@@ -18,5 +18,8 @@ class Rectangle {
         System.out.println( "좌표: (" + x + "," + y + ") " + "넓이: " + area(width, height));
     }
 
-//    boolean contains(Rectangle r)  무엇을 의미하는지?
+//    boolean contains(Rectangle r){
+//        if()
+//        return true;
+//    }
 }
