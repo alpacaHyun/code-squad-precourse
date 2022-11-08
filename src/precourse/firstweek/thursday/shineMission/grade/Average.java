@@ -1,4 +1,4 @@
-package precourse.firstweek.thursday.shineMission.Grade;
+package precourse.firstweek.thursday.shineMission.grade;
 
 class Average {
     public static int averageScore(int a, int b, int c) {

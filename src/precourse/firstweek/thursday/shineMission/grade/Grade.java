@@ -1,4 +1,4 @@
-package precourse.firstweek.thursday.shineMission.Grade;
+package precourse.firstweek.thursday.shineMission.grade;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

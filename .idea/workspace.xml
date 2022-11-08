@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 직사각형 놀이 (객체간 협력하기) &#10;&#10;body :">
-      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/rectangle/Rectangle.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 알파벳 문자 배열&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/circle/CircleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/secondweek/monday/library/Library0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/secondweek/monday/library/Library1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/secondweek/monday/library/LibraryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/Grade/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/grade/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/Grade/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/grade/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/rectangle/CalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/rectangle/RectangleManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/monday/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/monday/StringArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +44,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.CalRectangle">
-    <configuration name="CalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.shineMission.rectangle.CalRectangle" />
+}]]></component>
+  <component name="RunManager" selected="Application.StringArray">
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.monday.Library" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.thursday.shineMission.rectangle.*" />
+          <option name="PATTERN" value="precourse.secondweek.monday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.ClassPerson" />
+    <configuration name="Library0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.monday.library.Library0" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="PATTERN" value="precourse.secondweek.monday.library.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.shineMission.Grade.Grade" />
+    <configuration name="Library1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.monday.library.Library1" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.thursday.shineMission.Grade.*" />
+          <option name="PATTERN" value="precourse.secondweek.monday.library.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.LeftMoney" />
+    <configuration name="LibraryArray0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.monday.LibraryArray0" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="PATTERN" value="precourse.secondweek.monday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.firstweek.thursday.MyDateTest" />
+    <configuration name="StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.monday.StringArray" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.firstweek.thursday.*" />
+          <option name="PATTERN" value="precourse.secondweek.monday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalRectangle" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.LeftMoney" />
-        <item itemvalue="Application.ClassPerson" />
-        <item itemvalue="Application.MyDateTest" />
+        <item itemvalue="Application.StringArray" />
+        <item itemvalue="Application.Library0" />
+        <item itemvalue="Application.Library1" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.LibraryArray0" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +172,16 @@
       <workItem from="1667623116722" duration="227000" />
       <workItem from="1667629422447" duration="56000" />
       <workItem from="1667706237800" duration="3348000" />
-      <workItem from="1667716163060" duration="2875000" />
+      <workItem from="1667716163060" duration="4893000" />
+      <workItem from="1667796241316" duration="695000" />
+      <workItem from="1667797832071" duration="4578000" />
+      <workItem from="1667804529469" duration="5729000" />
+      <workItem from="1667824548393" duration="1616000" />
+      <workItem from="1667880071790" duration="3080000" />
+      <workItem from="1667883185626" duration="2327000" />
+      <workItem from="1667885524819" duration="935000" />
+      <workItem from="1667886466334" duration="79000" />
+      <workItem from="1667886548104" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 출력하기&#10;Hello, CodeSquad 출력하기">
       <created>1667199985142</created>
@@ -424,7 +442,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667719309688</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="type : feat 직사각형 놀이 (객체간 협력하기) &#10;&#10;body :">
+      <created>1667719833474</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1667719833474</updated>
+    </task>
+    <task id="LOCAL-00039" summary="type : feat 알파벳 문자 배열&#10;&#10;body :">
+      <created>1667799685615</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667799685615</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="주사위 3개의 합 시작 전" />
     <MESSAGE value="구구단" />
     <MESSAGE value="별찍기2" />
     <MESSAGE value="별찍기 코드 수정" />
@@ -467,7 +498,8 @@
     <MESSAGE value="type : refactor class 구분&#10;&#10;body :" />
     <MESSAGE value="type : &#10;&#10;body :" />
     <MESSAGE value="type : feat 직사각형 놀이 (객체간 협력하기) &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 직사각형 놀이 (객체간 협력하기) &#10;&#10;body :" />
+    <MESSAGE value="type : feat 알파벳 문자 배열&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 알파벳 문자 배열&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,7 +525,7 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/Grade/Grade.java</url>
+          <url>file://$PROJECT_DIR$/src/precourse/firstweek/thursday/shineMission/grade/Grade.java</url>
           <line>14</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
