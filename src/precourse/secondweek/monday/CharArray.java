@@ -1,5 +1,7 @@
 package precourse.secondweek.monday;
 
+import java.util.Arrays;
+
 public class CharArray {
     public static void main(String[] args) {
 
@@ -8,7 +10,7 @@ public class CharArray {
             alphabetArray[i] = (char)('A' + i);
         }
 
-        System.out.println(alphabetArray);
+        System.out.println(Arrays.toString(alphabetArray));
 
 
     }
