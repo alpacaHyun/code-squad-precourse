@@ -9,13 +9,9 @@ public class HyundaiFactory {
     private HyundaiFactory() {
     }
 
-    ;
-
 
     public static HyundaiFactory getFactory() {
-        if (getFactory == null) {
-            getFactory = new HyundaiFactory();
-        }
+
         return getFactory;
     }
 
@@ -26,3 +22,4 @@ public class HyundaiFactory {
 
 
 }
+// 스태틱 변수 메서드가 뭔가를 하는데
