@@ -2,12 +2,12 @@ package precourse.secondweek.thursday.mission1;
 
 
 public class Car {
-    private static int carNum = 1000;
-    int carNumber = 0;
+    private static int carNum = 999;
+    private int carNumber = 0;
 
     public Car() {
-        carNumber = carNum;
         carNum++;
+        carNumber = carNum;
     }
 
     public int showCarNumber() {

@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 미션 2 도전 &#10;&#10;body :">
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 미션 1&#10;&#10;body :">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/mission/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/mission/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/HyundaiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/HyundaiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Subject.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
       <recent name="precourse.secondweek.thursday" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.precourse.mission.CarTest">
+  <component name="RunManager" selected="Application.File">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="precourse.secondweek.thursday.mission1.CarTest" />
       <module name="Codesquad" />
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.tuesday.maze.Escape" />
+    <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.thursday.mission2.File" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.secondweek.tuesday.maze.*" />
+          <option name="PATTERN" value="precourse.secondweek.thursday.mission2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mission2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.tuesday.library.Mission2" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.thursday.mission2.Student" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.secondweek.tuesday.library.*" />
+          <option name="PATTERN" value="precourse.secondweek.thursday.mission2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.precourse.mission.CarTest" />
+        <item itemvalue="Application.File" />
         <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.precourse.mission.CarTest" />
         <item itemvalue="Application.GameStart" />
-        <item itemvalue="Application.Escape" />
-        <item itemvalue="Application.Mission2" />
       </list>
     </recent_temporary>
   </component>
@@ -192,21 +195,11 @@
       <workItem from="1668058142300" duration="6694000" />
       <workItem from="1668064868129" duration="297000" />
       <workItem from="1668067497936" duration="674000" />
-      <workItem from="1668068194006" duration="3742000" />
-    </task>
-    <task id="LOCAL-00002" summary="두 수 비교하시&#10;두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성">
-      <created>1667200417731</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667200417731</updated>
-    </task>
-    <task id="LOCAL-00003" summary="시험 성적 확인">
-      <created>1667201714399</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667201714399</updated>
+      <workItem from="1668068194006" duration="3963000" />
+      <workItem from="1668080449712" duration="1000" />
+      <workItem from="1668140755800" duration="2609000" />
+      <workItem from="1668145093178" duration="1027000" />
+      <workItem from="1668156792050" duration="4633000" />
     </task>
     <task id="LOCAL-00004" summary="백준 제출용 수정">
       <created>1667202132296</created>
@@ -537,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668067554061</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="type : feat 미션 1&#10;&#10;body :">
+      <created>1668080247553</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1668080247553</updated>
+    </task>
+    <task id="LOCAL-00052" summary="type : feat 미션 1&#10;&#10;body :">
+      <created>1668080378428</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1668080378428</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="수정" />
     <MESSAGE value="중간 정수 출력" />
     <MESSAGE value="If문 연습하기" />
     <MESSAGE value="." />
@@ -580,7 +586,8 @@
     <MESSAGE value="type : feat DFS, BFS 공부&#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 Car 생성 &#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 2 도전 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 미션 2 도전 &#10;&#10;body :" />
+    <MESSAGE value="type : feat 미션 1&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 미션 1&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
