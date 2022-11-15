@@ -22,6 +22,6 @@ public class ColorPoint extends Point {
     }
 
     public String toString(){
-        return color + "색의 " + "(" + x + "," + y + ")" + "의 점입니다";
+        return color + "색의 " + "(" + x + "," + y + ")" + "의 점입니다.";
     }
 }

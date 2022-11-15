@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : refactor&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/ColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 미션 1&#10;&#10;body :">
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/ColorPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/ColorPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,14 +207,7 @@
       <workItem from="1668487460630" duration="315000" />
       <workItem from="1668487898502" duration="3583000" />
       <workItem from="1668500514760" duration="1095000" />
-      <workItem from="1668501856847" duration="871000" />
-    </task>
-    <task id="LOCAL-00010" summary="별찍기 1">
-      <created>1667222568883</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1667222568883</updated>
+      <workItem from="1668501856847" duration="1355000" />
     </task>
     <task id="LOCAL-00011" summary="숫자의 합">
       <created>1667223087464</created>
@@ -554,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668494533211</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="type : feat 미션 1&#10;&#10;body :">
+      <created>1668503028040</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1668503028040</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,11 +591,11 @@
     <MESSAGE value="type : feat DFS, BFS 공부&#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 Car 생성 &#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 2 도전 &#10;&#10;body :" />
-    <MESSAGE value="type : feat 미션 1&#10;&#10;body :" />
     <MESSAGE value="type : feat 코드스쿼드 미션 1&#10;&#10;body :" />
     <MESSAGE value="type : feat &#10;&#10;body :" />
     <MESSAGE value="type : refactor&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : refactor&#10;&#10;body :" />
+    <MESSAGE value="type : feat 미션 1&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 미션 1&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,7 +627,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Test.java</url>
-          <line>4</line>
+          <line>8</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -652,7 +650,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/ColorPoint.java</url>
-          <line>17</line>
+          <line>19</line>
           <properties class="precourse.thirdweek.tue.shine1.ColorPoint" method="setColor">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
