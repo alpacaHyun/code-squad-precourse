@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat 미션 1&#10;&#10;body :">
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission1/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission1/MemberDIAMOND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission1/MemberPLATINUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission1/MemberRED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission1/MemberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/HyundaiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission1/HyundaiFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/secondweek/thursday/mission2/Subject.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="precourse.secondweek.thursday" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.File">
+  <component name="RunManager" selected="Application.MemberTest">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="precourse.secondweek.thursday.mission1.CarTest" />
       <module name="Codesquad" />
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.secondweek.tuesday.shine.wordchain.GameStart" />
+    <configuration name="MemberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.thirdweek.mon.mission1.MemberTest" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.secondweek.tuesday.shine.wordchain.*" />
+          <option name="PATTERN" value="precourse.thirdweek.mon.mission1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberTest" />
         <item itemvalue="Application.File" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.precourse.mission.CarTest" />
-        <item itemvalue="Application.GameStart" />
       </list>
     </recent_temporary>
   </component>
@@ -200,13 +201,14 @@
       <workItem from="1668140755800" duration="2609000" />
       <workItem from="1668145093178" duration="1027000" />
       <workItem from="1668156792050" duration="4633000" />
-    </task>
-    <task id="LOCAL-00004" summary="백준 제출용 수정">
-      <created>1667202132296</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1667202132296</updated>
+      <workItem from="1668167370625" duration="16000" />
+      <workItem from="1668214576673" duration="85000" />
+      <workItem from="1668235607462" duration="792000" />
+      <workItem from="1668236900040" duration="1667000" />
+      <workItem from="1668411907155" duration="1659000" />
+      <workItem from="1668413605895" duration="207000" />
+      <workItem from="1668413816530" duration="3239000" />
+      <workItem from="1668478664911" duration="2225000" />
     </task>
     <task id="LOCAL-00005" summary="백준 제출용 수정">
       <created>1667202144768</created>
@@ -544,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668080378428</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="type : feat &#10;&#10;body :">
+      <created>1668167378548</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1668167378549</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="중간 정수 출력" />
     <MESSAGE value="If문 연습하기" />
     <MESSAGE value="." />
     <MESSAGE value="double 형 두 수 나누기" />
@@ -587,7 +595,8 @@
     <MESSAGE value="type : feat 미션 Car 생성 &#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 2 도전 &#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 1&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 미션 1&#10;&#10;body :" />
+    <MESSAGE value="type : feat &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
