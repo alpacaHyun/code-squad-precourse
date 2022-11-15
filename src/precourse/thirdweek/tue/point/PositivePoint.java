@@ -6,7 +6,6 @@ public class PositivePoint extends Point {
     }
 
     public PositivePoint(int x, int y) {
-        super(x, y);
         if(x > 0 && y > 0) {
             this.x =x;
             this.y = y;
