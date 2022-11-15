@@ -8,9 +8,6 @@ public class MemberPLATINUM extends Member {
         this.pointRatio = 0.05;
         this.saleRatio = 0.95;
 
-        getPayAmount();
-        getEarnPoint();
-        getParkingCost();
     }
 
     public int getParkingCost() {

@@ -8,9 +8,6 @@ public class MemberRED extends Member {
         this.pointRatio = 0.01;
         this.saleRatio = 1;
 
-        getPayAmount();
-        getEarnPoint();
-        getParkingCost();
     }
     public int getPayAmount() {
         return payAmount = (int) Math.round(saleRatio * shoppingAmount);

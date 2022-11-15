@@ -9,10 +9,7 @@ public class MemberDIAMOND extends Member {
         this.pointRatio = 0.1;
         this.saleRatio = 0.9;
 
-        getPayAmount();
-        getEarnPoint();
-        getParkingCost();
-        getAgentID();
+//        getAgentID();
     }
     public int getPayAmount() {
         return payAmount = (int) Math.round(saleRatio * shoppingAmount);
