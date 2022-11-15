@@ -1,14 +1,11 @@
-package precourse.thirdweek.tue.shine1;
+package precourse.thirdweek.tue.point;
 
 public class ColorPoint extends Point {
 
-    protected int x;
-    protected int y;
     protected String color;
 
-    ColorPoint(int x, int y, String color) {
-        this.x = x;
-        this.y = y;
+    public ColorPoint(int x, int y, String color) {
+        super(x,y);
         this.color = color;
     }
 

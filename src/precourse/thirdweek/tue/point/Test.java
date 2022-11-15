@@ -1,6 +1,7 @@
-package precourse.thirdweek.tue.shine1;
+package precourse.thirdweek.tue.point;
 
-public class Test extends Point {
+public class Test {
+
     public static void main(String[] args) {
         ColorPoint zeroPoint = new ColorPoint(0,0,"BLACK");
         String zeroP = zeroPoint.toString();
