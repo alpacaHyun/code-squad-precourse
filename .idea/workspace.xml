@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat shine 미션 2&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/PositivePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/Test3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/TestPositive.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : refactor shine 미션 &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/BrazilAmericano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/CoffeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/EtiopiaAmericano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/HawaiiAmericano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/KenyaAmericano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/WhippedCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/ColorPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/ColorPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/tue/shine1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/tue/point/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffee/BrazilAmericano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffee/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffeetest/CoffeeTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +70,13 @@
       <recent name="precourse.secondweek.thursday" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestPositive">
+  <component name="RunManager" selected="Application.precourse.thirdweek.mon.mission2.decorator.CoffeeTest">
     <configuration name="CoffeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.thirdweek.mon.mission2.coffeetest.CoffeeTest" />
+      <option name="MAIN_CLASS_NAME" value="precourse.thirdweek.mon.mission2.decorator.CoffeeTest" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.thirdweek.mon.mission2.coffeetest.*" />
+          <option name="PATTERN" value="precourse.thirdweek.mon.mission2.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.precourse.thirdweek.mon.mission2.decorator.CoffeeTest" />
         <item itemvalue="Application.TestPositive" />
         <item itemvalue="Application.Test3D" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MemberTest" />
-        <item itemvalue="Application.CoffeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,21 +227,10 @@
       <workItem from="1668501856847" duration="3328000" />
       <workItem from="1668508539631" duration="3698000" />
       <workItem from="1668514386124" duration="1316000" />
-      <workItem from="1668521276520" duration="767000" />
-    </task>
-    <task id="LOCAL-00012" summary="오븐타이머">
-      <created>1667224005885</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1667224005885</updated>
-    </task>
-    <task id="LOCAL-00013" summary="주사위 3개의 합 시작 전">
-      <created>1667224543664</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1667224543664</updated>
+      <workItem from="1668521276520" duration="988000" />
+      <workItem from="1668559998563" duration="2604000" />
+      <workItem from="1668576608913" duration="133000" />
+      <workItem from="1668664738503" duration="3239000" />
     </task>
     <task id="LOCAL-00014" summary="구구단">
       <created>1667224773399</created>
@@ -561,7 +561,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668503389347</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="type : feat shine 미션 &#10;&#10;body :">
+      <created>1668522210927</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1668522210927</updated>
+    </task>
+    <task id="LOCAL-00062" summary="type : refactor shine 미션 &#10;&#10;body :">
+      <created>1668522261674</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1668522261674</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,8 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="double 형 두 수 나누기" />
-    <MESSAGE value="switch 적용할 것" />
     <MESSAGE value="ASCII" />
     <MESSAGE value="type : feat&#10;&#10;body : 두 수 10, 2를 속성 값으로 가지는 클래스를 만들고 이를 사칙연산 하는 클래스와 이를 사용하는 클래스를 따로 만들어 사칙연산의 출력결과를 출력하세요." />
     <MESSAGE value="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력" />
@@ -604,7 +616,9 @@
     <MESSAGE value="type : refactor&#10;&#10;body :" />
     <MESSAGE value="type : feat 미션 1&#10;&#10;body :" />
     <MESSAGE value="type : feat shine 미션 2&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat shine 미션 2&#10;&#10;body :" />
+    <MESSAGE value="type : feat shine 미션 &#10;&#10;body :" />
+    <MESSAGE value="type : refactor shine 미션 &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : refactor shine 미션 &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,16 +667,6 @@
           <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/point/PositivePoint.java</url>
           <line>19</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/point/TestPositive.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/point/TestPositive.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/precourse/thirdweek/tue/point/ColorPoint.java</url>
