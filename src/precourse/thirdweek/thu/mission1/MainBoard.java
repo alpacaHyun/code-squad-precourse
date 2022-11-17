@@ -6,9 +6,13 @@ public class MainBoard {
 
         Player player = new Player();
         player.play(1);
-        player.upgradeLevel(Player.ADVANCED_LEVEL);
+
+        PlayerLv2 advancedLevel = new PlayerLv2();
+        player.upgradeLevel(advancedLevel);
         player.play(2);
-        player.upgradeLevel(Player.SUPER_LEVEL);
+
+        PlayerLv3 specialLevel = new PlayerLv3();
+        player.upgradeLevel(specialLevel);
         player.play(3);
 
     }

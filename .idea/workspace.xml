@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : refactor shine 미션 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/BrazilAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/CoffeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/EtiopiaAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/HawaiiAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/KenyaAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/decorator/WhippedCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" afterDir="false" />
+    <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat mission 1&#10;&#10;body : 11.17 mission 1">
+      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffee/BrazilAmericano.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffee/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/mon/mission2/coffeetest/CoffeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +58,13 @@
       <recent name="precourse.secondweek.thursday" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.precourse.thirdweek.mon.mission2.decorator.CoffeeTest">
-    <configuration name="CoffeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="precourse.thirdweek.mon.mission2.decorator.CoffeeTest" />
+  <component name="RunManager" selected="Application.MainBoard">
+    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precourse.thirdweek.thu.mission1.MainBoard" />
       <module name="Codesquad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="precourse.thirdweek.mon.mission2.decorator.*" />
+          <option name="PATTERN" value="precourse.thirdweek.thu.mission1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.precourse.thirdweek.mon.mission2.decorator.CoffeeTest" />
+        <item itemvalue="Application.MainBoard" />
         <item itemvalue="Application.TestPositive" />
         <item itemvalue="Application.Test3D" />
         <item itemvalue="Application.Test" />
@@ -230,21 +218,8 @@
       <workItem from="1668521276520" duration="988000" />
       <workItem from="1668559998563" duration="2604000" />
       <workItem from="1668576608913" duration="133000" />
-      <workItem from="1668664738503" duration="3239000" />
-    </task>
-    <task id="LOCAL-00014" summary="구구단">
-      <created>1667224773399</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1667224773399</updated>
-    </task>
-    <task id="LOCAL-00015" summary="별찍기2">
-      <created>1667225753183</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1667225753183</updated>
+      <workItem from="1668664738503" duration="3371000" />
+      <workItem from="1668698290951" duration="1533000" />
     </task>
     <task id="LOCAL-00016" summary="별찍기 코드 수정">
       <created>1667276602816</created>
@@ -575,7 +550,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668522261674</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="type : feat mission 2&#10;&#10;body : 11.14 mission 2">
+      <created>1668668096079</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1668668096079</updated>
+    </task>
+    <task id="LOCAL-00064" summary="type : feat mission 1&#10;&#10;body : 11.17 mission 1">
+      <created>1668668112521</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1668668112521</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,8 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ASCII" />
-    <MESSAGE value="type : feat&#10;&#10;body : 두 수 10, 2를 속성 값으로 가지는 클래스를 만들고 이를 사칙연산 하는 클래스와 이를 사용하는 클래스를 따로 만들어 사칙연산의 출력결과를 출력하세요." />
     <MESSAGE value="type : feat&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력" />
     <MESSAGE value="type : refactor&#10;&#10;body : 두 사람이 커피를 마시고 남은 금액 출력" />
     <MESSAGE value="type : feat 평균 산출&#10;&#10;body : shine 추가미션" />
@@ -618,7 +605,9 @@
     <MESSAGE value="type : feat shine 미션 2&#10;&#10;body :" />
     <MESSAGE value="type : feat shine 미션 &#10;&#10;body :" />
     <MESSAGE value="type : refactor shine 미션 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : refactor shine 미션 &#10;&#10;body :" />
+    <MESSAGE value="type : feat mission 2&#10;&#10;body : 11.14 mission 2" />
+    <MESSAGE value="type : feat mission 1&#10;&#10;body : 11.17 mission 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat mission 1&#10;&#10;body : 11.17 mission 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
