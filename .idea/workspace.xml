@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35d5d628-3483-4d18-987a-5b00d1824089" name="Changes" comment="type : feat mission 1&#10;&#10;body : 11.17 mission 1">
-      <change afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precourse/fourthweek/mon/mentorclass/MentorClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/MainBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/precourse/thirdweek/thu/mission1/PlayerLv3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,14 +215,13 @@
       <workItem from="1668559998563" duration="2604000" />
       <workItem from="1668576608913" duration="133000" />
       <workItem from="1668664738503" duration="3371000" />
-      <workItem from="1668698290951" duration="1533000" />
-    </task>
-    <task id="LOCAL-00016" summary="별찍기 코드 수정">
-      <created>1667276602816</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1667276602816</updated>
+      <workItem from="1668698290951" duration="1791000" />
+      <workItem from="1668700441035" duration="6000" />
+      <workItem from="1668746632750" duration="2163000" />
+      <workItem from="1668819832721" duration="28000" />
+      <workItem from="1668819862561" duration="1000" />
+      <workItem from="1668961294665" duration="1000" />
+      <workItem from="1669021513015" duration="629000" />
     </task>
     <task id="LOCAL-00017" summary="패키지 수정">
       <created>1667276635221</created>
@@ -564,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668668112521</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="type : feat mission 1&#10;&#10;body : 11.17 mission 1">
+      <created>1668700174678</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1668700174679</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

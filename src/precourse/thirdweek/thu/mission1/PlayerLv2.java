@@ -19,6 +19,6 @@ public class PlayerLv2 extends PlayerLevel {
 
     @Override
     public void showLevelMessage() {
-        System.out.println("***중급 레벨입니다");
+        System.out.println("***중급 레벨입니다***");
     }
 }
